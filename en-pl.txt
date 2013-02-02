@@ -1,0 +1,1155 @@
+severe:srogi, olbrzymi, surowy, wymagajacy, ciezki, prosty:4
+convey:przenosic, przewozic, komunikowac, dzielic sie informacja, przenosic wlasnosc:4
+urea:mocznik, karbamid:4
+petroleum:ropa naftowa:4
+spectator:zawodnik:4
+give sb a hand, assist somebody:pomagac komus:4
+earnings:zarobki:4
+fund:fundusz:4
+inflammation:zapalenie:4
+chance:przypadek, szansa, okazja:4
+delight:rozkosz, rozkoszowac sie:4
+complexion:cera:4
+be in charge of sb:dowodzic kims:4
+pear:gruszka:4
+dark-skinned:o ciemnej skorze, ciemnoskory:4
+comprehensive:calosciowy, obszerny:4
+moustache:wasy:4
+although:poniewaz:4
+toward:w kierunku:4
+clumsy:niezgrabny, nieporeczny:4
+kidney:nerka:4
+adventourous:zadny przygod:4
+essential:istotny, wazny, zasadniczy:4
+collarbone:obojczyk:4
+wrinkless:zmarszczki:4
+tendon:sciegno:4
+backbone:kregoslup:4
+arrogant:arogancki:4
+broad-minded:tolerancyjny, tolerant:4
+torment:katusze, tortury:4
+freckles:pierogi:4
+chatterbox:gadula:4
+shoulder blade:lopatka:4
+artery:arteria:4
+boastful:chelpliwy, chwalidupa:4
+carefree:beztroski:4
+careless:niedbaly:4
+employing a relative:zatrudnic kogos z rodziny, a jak kurwa hehe:4
+expense:koszt:4
+librarian:bibliotekarz:4
+tend:miec tendencje:4
+good natured:radosny, pogodny:4
+gist:istota, sedno sprawy:4
+approval:aprobata, zatwierdzenie:4
+stove:piec:4
+viable:zdolny do zycia, wykonalny, realny:4
+subsidiary:fabryka:4
+spume:piana:4
+spurt:zryw:4
+reimburse:zwracac, koszty czegos:4
+fleet:szybki, raczy:4
+opposing:przeciwstawny:4
+rattling:fajny, bombowy:4
+anticipate:przyspieszac, uprzedzac, antycypowac, oczekiwac, wyprzedzac:4
+intensional:used of a set of attrubites that distinguish the referents of a given word:4
+prevalent:szeroko rozpowszechniony, przewazajacy:4
+protracted:przedluzony, przewlekly:4
+sound:mierzyc, sondowac, odglos:4
+spurious:bledny, zludny:4
+feedstock:przemyslowy material wsadowy:4
+diminishing:malejacy:4
+civic:obywatelskie:4
+pence:grosz, penny, pens:4
+passage:przejscie:4
+hastered:pospieszny, pochopny:4
+spurn:odrzucac, wzgardzac:4
+sheer:zwykly, zwyczajny:4
+grasp:uchwyt:4
+science lab:gabinet, sala:4
+inclination:zapal, tendencja, sklonnosc, pochylenie, nachylenie:4
+be sacked:puszczony z torbami:4
+mention:wzmianka, wymieniac, wspominac o kims:4
+give marks, get marks:otrzymywac, dawac stopnie:4
+obscure:niejasny, daleki:4
+spine:kregoslup:4
+trustworthy:godny zaufania:4
+attend:uczestniczyc:4
+contend:twierdzic, utrzymywac:4
+glane:wiazka:4
+affiliate:wlaczac, przylaczac, dolaczac:4
+underpinned:podpierane, podbudowywane, wspierane, wzmacniane, podparte:4
+salary:pensja miesieczna:4
+manager:kierownik:4
+pharmacist:chemik, farmaceuta:4
+clock on,off:informal, zakonczyc prace:4
+be dismissed:zostac zwolnionym:4
+assume:zakladac:4
+miner:gornik:4
+scramble:wspinaczka, szamotanina:4
+latency:zwloka:4
+pensioner:emeryt:4
+road swepper:pracownik sluzb oczyszczania miasta:4
+truancy:wagarowanie:4
+be laid off:zostac odstawionym:4
+shopkeeper:wlasciciel sklepu:4
+stockbroker:makler gieldowy:4
+sales representative:przedstawiciel handlowy:4
+vet:weterynarz:4
+ticket inspector:kontroler biletow:4
+spread:szerzenie, rozchodzenie sie, rozrzut:4
+invigorate:wzmacniac, orzezwiac:4
+bulk:masa, wielkosc:4
+solicitor:notariusz, adwokat:4
+travel agent:agent biura podrozy:4
+family gathering:spotkanie rodzinne:4
+extravert:otwarty, towarzyski:4
+tactless:nieuprzejmy, nietaktowny:4
+impolite:nieuprzejmy, nietaktowny:4
+disloyal:nielojalny:4
+sway:kolysanie:4
+glide:slizgac sie:4
+apprehensive:pelen obaw:4
+backed:popierany:4
+unpleasent:niemily:4
+cease:zaprzestanie, ustanie, przerwanie:4
+amusing:zabawny, smieszny:4
+revenue:dochod:4
+get together:spotkanie towarzyskie:4
+irritable, bad tempered, short tempered:latwo wpadajacy w gniew, furiat:4
+narrow-minded:nietolerancyjny:4
+obedient:posluszny:4
+modest:skromny:4
+accountant:ksiegowy:4
+carpenter:stolarz:4
+barrister:prawnik, adwokat:4
+accounty:ksiegowy:4
+dependable:niezawodny, godny zaufania:4
+gullible:naiwny:4
+prosecutor:prokurator:4
+virtue:zaleta:4
+vice:wada:4
+sculptor:rzezbiarz:4
+anniversary:rocznica:4
+revise:powtarzac, utrwalac:4
+obese:otyly:4
+noun:rzeczownik:4
+autonomy:autonomia, niezaleznosc, samostanowienie:4
+messy:balaganiarski, nieporzadny:4
+adjective:przymiotnik:4
+day-to-day basis:cos, co wydarza sie praktycznie codziennie, rutyna, zazwyczaj:4
+mailshot:spam, masowo wyslana wiadomosc:4
+mean:skapy, zlosliwy:4
+beautician:kosmetyczka:4
+elicit:uzyskiwac, wydobywac, wywolywac:4
+abroad:za granice:4
+acquaintance:znajomy, pokrewny:4
+bid:oferta:4
+indicate:wykazywac, pokazywac:4
+adolescence:okres dojrzewania:4
+woody:zalesiony, drzewiasty:4
+counterpart:duplikat, odpowiednik:4
+dead-end job:praca bez przyszlosci, perspektyw na awans:4
+predecessor:poprzednik:4
+executive:pracownik na stanowisku kierowniczym:4
+alleged:przypuszczalny, rzekomy:4
+conceited:zarozumialy:4
+intern:praktykant:4
+pit:kopalnia, jama, wglebienie, dziura, otchlan:4
+threatening:grozic:4
+apart:na bok, na boku:4
+perk:dodatek, bonus w pracy, ozywiac sie, odprezac, dochodzic do siebie, parzyc:4
+sweatshop:wytwornia zatrudniajaca niskoplatnych pracownikow:4
+to echo:podzielac opinie:4
+assignment:zadanie bedace czescia pracy lub studiow:4
+anxious:zaniepokojony:4
+dog eat dog:fraza analogiczna do wyscigu szczurow:4
+mourning:zaloba:4
+detest:nie znosic, nienawidzic:4
+scruffy:niechlujny:4
+plump:pulchny:4
+farm out:oddawac w dzierzawe, powierzac prace komus, outsourcing:4
+cause an uproar:wywolac zamieszanie:4
+uproar:halas, wrzawa:4
+pass out:rozdac cos wszystkim czlonkom grupy:4
+burst:wybuch, pekniecie, rozsadzenie:4
+sue:pozywac:4
+moody:humorzasty, markotny:4
+dwell:mieszkac, rozwodzic sie nad czyms:4
+presumption:aksjomat, zalozenie, ze cos jest prawda bez kwestionowania tego:4
+barge in:wjebac sie gdzies, robiac bardache:4
+take the mickey:zartowac, nabierac kogos:4
+wreck:zaglada, zniszczenie:4
+outage:przestoj:4
+stakeholder:partner, udzialowiec, wspolnik:4
+drop off:odpasc, odpadac, podrzucac, podrzucic:4
+throw in:dorzucic cos ekstra:4
+prestigious:prestizowy, renomowany, znakomity:4
+boorishness:prostactwo, grubianstwo:4
+obstacle:przeszkoda:4
+tireless:niestrudzony, niezmordowany, nie znajacy zmeczenia, uparty:4
+penalty:kara, grzywna:4
+martyr:meczennik:4
+skive:wymigiwac sie od czegos:4
+thick:grube:4
+slip:osuwac sie, wymykac, wslizgiwac:4
+wrath:gniew, oburzenie, bulwersacja:4
+shroud:okrywac, spowijac:4
+bounce:odskok, odbicie:4
+deteriorate:psuc, pogarszac:4
+weld:spawac:4
+reassess:powtornie rozwazyc, przemyslec:4
+dilute:rozcienczony, rozcienczac, rozpuszczac:4
+echo:poglos:4
+oversight:niedopatrzenie, przeoczenie:4
+ad hoc:dorazny, zaimprowizowany:4
+superficially:powierzchownie:4
+bounce back:uzyskac stabilnosc psychiczna po niefortunnym wydarzeniu:4
+regulaory:organizacja kontrolujaca poprawnosc prawna dzialania firm:4
+uncollectible:nieodzyskiwalny:4
+wizard:someone, who is very good in something:4
+clear the air:wyjasnienie nieprzyjemnej sytuacji:4
+whilst:podczas, gdy:4
+offshore:another country where prises are lower:4
+intrusive:wscibski, nachalny, niepozadany:4
+smother:dusic, pokrywac:4
+exceesive:nadmierny, nieumiarkowany, przesadny:4
+jet-lagged:czuc sie zmeczony lotem hehe:4
+ruthless:bezlitosny, bezwzgledny:4
+publicly-traded:firma, ktorej akcje mozna kupic na rynku:4
+dismal:posepny:4
+blatant:krzykliwy, jawny, razacy:4
+nitty-gritty:konkrety, istota, sedno:4
+lead time:time between planning something and starting it:4
+tentative:orientacyjny, probny:4
+sorely:powaznie, bardzo, podziwiany, respektowany:4
+squeeze:wyciskac, nacisk, wycisnac cos z kogos squeeze out:4
+pushy:bezczelny, arogancki:4
+the done thing:czynnosc, sposob postepowania powszechnie uwazany za wlasciwy:4
+blurred:nieostry, zamazany, niewyrazny:4
+turmoil:zamieszanie, wrzawa, zgielk, podniecenie:4
+think outside the box:myslec niekonwencjonalnie, w osobliwy sposob majacy na cely znalezienie nowych sposobow robienia rzeczy:4
+disregard:to pay no attention to something, miec cos w dupie:4
+sustainable:staly, stabilny, podtrzymywany:4
+brainless:ekstremalnie glupi, bezmozgi:4
+align:ustawiac, ukladac, wyrownywac, dojsc do ladu z kims:4
+process:przetwarzanie danych:4
+acommodation:zakwaterowanie, mieszkanie:4
+dive:nurkowanie, skakanie do wody:4
+adverse:niesprzyjajacy, niepomyslny, nieprzychylny:4
+vulgar:unpleasant, rude, offensive:4
+armoury:zbrojownia:4
+slick:sprytny, zreczny:4
+latency:utajenie, stan utajenia:4
+amendment:poprawka, nowelizacja:4
+robust:krzepki, mocny:4
+knob:galka strojeniowa, wybrzuszenie, guzik:4
+meteoric:meteoryczny, zwrotny, becoming very succesful very quickly:4
+obviate:obejsc:4
+tender:wrazliwy, delikatny, drazliwy, oferta, przetarg:4
+foodstuff:produkt zywnosciowy:4
+settle:godzic, usmierzac, ustawiac, oddawac dlug, regulowac, ukladac, placic, zdecydowac sie:4
+take something by storm:to be very succesful in some area:4
+vet:weryfikowac, sprawdzac, weterzynarz:4
+vague:niejasny, niewyrazny, pobiezny, powierzchowny:4
+stipulate:okreslac:4
+conceivable:niewykluczony:4
+originate:zapoczatkowac:4
+entrenched:zakorzeniony, ukopany:4
+thoroughly:calkowicie, doszczetnie, totalnie, zupelnie:4
+de-couple:uniezaleznic:4
+abundance:dostatek, zyc w dostatku:4
+downright:szczery, otwarty, calkowity, zupelny:4
+bovine:woli, bawoli:4
+squat:kucac, upasc ku ziemi, nielegalne koczownictwo:4
+beige:bezowy:4
+retinal:siatkowkowy:4
+betterment:poprawa, polepszenie:4
+derelict:opuszczony, porzucony:4
+deem:uwazac, sadzic:4
+stooge:obiekt zartow, komika:4
+indentured:bound by contract:4
+glamor:przepych, splendor, czar, blask, urok:4
+figure:wskazanie liczbowe, cyfra przedstawiajaca wartosc, koszt :4
+perennial:bylina, wieloletnia:4
+indicative:oznajmujacy:4
+rant:perorowac, wyglaszac tyrady:4
+disguise:przebrac, zamaskowac:4
+stagnate:stac, byc w zastoju:4
+servitude:niewola:4
+extensively:szeroko, powszechnie, w duzym stopniu:4
+scarcely:zaledwie, dopiero co, prawie:4
+transpose:tranponowac, przestawiac:4
+scattered:rozrzucony, rozproszony, rozsiany:4
+moisture:wilgoc:4
+humidity:wilgotnosc:4
+immutable:niezmienny, staly:4
+surge:spietrzona fala, nagly przyplyw:4
+eagerly:ochoczo:4
+unergone:ulec, zostac oddanym, podlegac, podlec:4
+discouraged:zniechecony, zrazony:4
+remainder:pozostalosc, reszta:4
+reuptake:wychwyt ponowny:4
+cumbersome:nieporeczny, nieefektywny, niewygodny:4
+numb:zdretwialy, scierply:4
+precautionary:zapobiegawczy, zaradczy:4
+irate:zezloszczony, zirytowany, poirytowany:4
+scrounge:zebrac, szukac:4
+abomination:ohyda, paskudztwo, obrzydzenie, wstret, odraza:4
+nuisance:nieprzyjemnosc, przykra sprawa:4
+staggering:zdumiewajacy, szokujacy, nadzwyczajny:4
+inhibit:zakazywac, hamowac, powstrzymywac:4
+seamless:bez szwu, nierozroznialnie, nieodroznialnie, nierozroznialny, nieodroznialny:4
+trailing:ciagnac sie za:4
+imperative:rozkazujacy, zadny wladzy:4
+tamper:wtracic sie, wtracac sie, komus, do czegos:4
+urgent:nagly, pilny, nie cierpiacy zwloki:4
+rife:rozpowszechniony:4
+lair:melina:4
+deceptive:zwodniczy, wprowadzajacy w blad:4
+craving:ochota, pragnienie:4
+pivotal:kuulminacyjny, decydujacy, zasadniczy:4
+glossary:slownik, glosariusz, skorowidz:4
+limb:konczyna:4
+hence:stad, odtad, od tej chwili, na pewno:4
+dense:zbity, zwarty, gesty:4
+light bulb:zarowka:4
+cerebral:mozgowy:4
+repudiation:odtracenie, odrzucenie:4
+pale:jasny, blady, granica:4
+plummet:gwaltownie spadac w dol, zmniejszac sie, obnizac:4
+caveat:zastrzezenie, sprzeciw:4
+confine:granica, kres:4
+therefore:dlatego, wiec, zatem, przeto:4
+struggling:walka, toczenie walki, zwalczanie, boj, boju:4
+sanity:zdrowie psychiczne, rozsadek:4
+circumvent:omijac, obchodzic, oszukiwac, przechytrzac:4
+contrary:przeciwienstwo, w przeciwienstwie do:4
+comb:grzebien, czesac, przeczesywac:4
+inhibit:powstrzymywac, hamowac:4
+reuptake:wychwyt zwrotny, ponowny:4
+hereby:niniejszym:4
+drawer:szuflada:4
+tranquility:spokoj, atmosfera spokoju:4
+serenity:spokoj:4
+misnomer:okreslenie niewlasciwe, bledne, nie pasujace do danego podmiotu:4
+solicit:prosic o cos, zwracac sie, oczekiwac:4
+emerge:pojawiac sie, wylaniac, zjawiac sie, wychodzic, wynurzac sie:4
+wayward:krnabrny, gnusny, nieznosny, krnabrna, nieznosna, krnabrne:4
+prudent:rozwazny, rozsadny, ostrozny:4
+vasoconstrictive:zwezajacy naczynia:4
+obstinately:uporczywie, zawziecie, kurczowo, rozpaczliwie, uparcie:4
+amplify:rozszerzac, zwiekszac, wzmacniac:4
+cognition:poznanie, zrozumienie, percepcja, swiadomosc:4
+delusion:zludzenie, iluzja:4
+manslag:kutas czitujacy swoja dziewczyne:4
+polynominal:wielomian:4
+deceitful:oszukanczy, podstepny:4
+versatile:wszechstronny, uniwersalny:4
+evict:eksmitowac, wyrzucac:4
+miscellaneous:rozmaite, rozne, rozny, rozmaity:4
+comatose:spiaczka:4
+hiking:podnosic, zwiekszac, podciagac, podwyzszac:4
+surreptitiously:potajemnie:4
+affinity:podobienstwo, powinowactwo:4
+nefarious:niegodziwy, niemoralny:4
+alleviate:ulzyc, zmniejszyc, wyjsc naprzeciw:4
+evade:unikac, uchylac sie:4
+judicious:rozsadny, rozumny:4
+leverage:dzwigniecie, dzialanie dzwigni, nacisk, wplyw:4
+essay:wypracowanie, opracowanie, szkic, esej, proba, probowac, testowac, podejmowac probe:4
+dividend:dywidenda, dzielna:4
+treshold:prog:4
+endeavor:wpierac, staranie, zachod, dazyc, usilowanie:4
+discrepancy:niezgodnosc, rozbieznosc:4
+obnoxious:wstretny, przykry, nieznosny, obrazliwy, wkurwiajacy:4
+albeit:aczkolwiek, acz, chociaz, choc:4
+tedious:nudny:4
+robe:szata:4
+faint:lekki, nikly, niewyrazny, slaby, mdlec, omdlec:4
+perpetrator:sprawca:4
+endure:wytrzymac, cierpiec, przetrwac:4
+facilitate:ulatwiac:4
+imperative:rozkaz, tryb rozkazujacy, pilny, istotny, natychmiastowy, niezbedny, naglacy:4
+abandoned:opuszczony, porzucony:4
+envelope:koperta, pokrywa:4
+uptick:niewielki lub tymczasowy wzrost:4
+booty:lup, zdobycz:4
+apparently:najwyrazniej, wyraznie, chyba, widocznie:4
+diligence:pilnosc, pracowitosc, starannosc, dbalosc:4
+mundane:doczesny, przyziemny:4
+envisage:przewidywac, wyobrazac sobie:4
+scrape:zgrzytanie, szuranie, scieranie, zdrapywanie, zeskrobywanie, skrobac, skrobanie:4
+tile:dachowka, kafelek, element skladanki scrabble, puzzel moze nawet:4
+defer:odkladac:4
+scour:erozja, przeszukiwac:4
+preserve:dzem, konfitura, przechowywac, zachowywac:4
+hatred:nienawisc:4
+beam:belka, dzwigar, podkladnia:4
+retain:zachowywaæ, przechowywac, utrzymywac, zatrudniac:4
+savage:prymitywny, brutalny, ostry, okrutny, bestialski, barbarzynski:4
+spatial:przestrzenny:4
+scavenger:padlinozerca:4
+verbatim:slowo w slowo, dokladnie:4
+auxiliary:pomocniczy:4
+brothel:burdel:4
+procrastination:odwlekanie:4
+somewhat:nieco:4
+pitch:smola, ciemno, zaciemnic, ciemny, stanowisko, szczyt, kat nachylenia:4
+rudimentary:elementarny, szczatkowy:4
+poverty:bieda:4
+ditch:kopac pozbywac sie czegos porzucac wyrzucac:4
+postpone:odkladac, przekladac, odraczac:4
+extraordinary:niezwykly, nietypowy, niecodzienny:4
+shatter:roztrzaskiwac:4
+outrageously:tragicznie:4
+ingenious:pomyslowy, oryginalny, sprytny:4
+contradiction:sprzecznosc, antynomia, bzdura, absurd:4
+reprisal:odwet:4
+addition:dodawanie:4
+estimate:szacowac, obliczac:4
+commodity:artykul, towar:4
+bewildering:wprawiajacy w konsernacje, zdezorientowanie, dezorientujacy,:4
+inciting:podburzac:4
+exhibit:wykazywac:4
+vessel:naczynie, pojemnik:4
+deprived:pozbawiony, uposledzony:4
+fountain:wodotrysk:4
+pamphlet:broszurka:4
+quantity:ilosc:4
+relentless:bezlitosny, nieugiety, nieprzejednany:4
+lenses:szkla kontaktowe:4
+equator:rownik:4
+dispel:rozpedzac, rozwiewac:4
+pineal:szyszynka, szyszynkowaty:4
+nourish:karmic, zywic, dawac pozywienie:4
+tenant: dzierzawca, lokator, mieszkaniec:4
+dilate:rozszerzac sie:4
+nausea:nudnosci:4
+notion:idea, pojecie, wyobrazenie:4
+subtlety:subtelnosc:4
+cardiovascular:sercowo-naczyniowy:4
+spindle:wrzeciono, patyk:4
+impediment:przeszkoda:4
+hallmark:cecha charakterystyczna, proba, znamie:4
+agile:zywy, zwinny:4
+domestic:rodzimy, krajowy, lokalny, domowy:4
+quirk:dziwactwo, nawyk, przyzwyczajenie:4
+enrol:zapisac, wpisac, rekruotowac, zrekrutowac:4
+privisions:przepisy:4
+steer:sterowac, kierowac:4
+obey:sluchac:4
+hinder:utrudniac:4
+legacy:spadek, dziedzictwo, nastepstwo, spuscizna:4
+density:gestosc:4
+scrutiny:badanie, lustracja, przestudiowanie:4
+envision:przewidywac:4
+mindfulness:uwaznosc:4
+appliance:urzadzenie:4
+consent:zgoda, przyzwolenie, przystawanie:4
+derogate:odstapic, odejsc:4
+prejudice:uszczerbek, krzywda, krzywdzic, uprzedzac, zaszkodzic:4
+carry out:przeprowadzenia, przeprowadzac:4
+contravene:naruszac, lamac, zaprzeczac:4
+benign:lagodny:4
+omission:pominiecie:4
+perimeter:obwod:4
+disparate:rozne:4
+imminent:bezposredni:4
+commodity:towar:4
+stainless:nieskazitelny, bez zarzutu, doskonaly, idealny, stabilny, dobrze dopracowany:4
+mimics:nasladuje:4
+dire:straszny, straszliwy, chmurny:4
+immaculate:nieskazitelny:4
+insufflation:przedmuchanie:4
+palka:bludgeon:4
+inherently:z natury:4
+daub:kicz:4
+rust:rdza:4
+miska:bowl:4
+betroot:burak:4
+fondle:piescic:4
+minutes:raport z posiedzenia, sprawozdanie:5
+typescript:maszynopis:5
+frank:szczery:5
+spark:iskra:5
+CFO:Chief Financial Officer:5
+phrasal verb:czasownik zlozony:5
+gently:grzecznie:5
+effectiveness:efektywnosc:5
+sparse:rzadko:5
+venture:ryzyko:5
+fuck:pierdolic:5
+routinely:rutynowo:5
+CEO:Chief Executive Officer:5
+rib:zebro:5
+sink:tonac:5
+discord:dyskoordynacja:5
+vaunted:przechwalony:5
+ubiquitious:wszechobecny:5
+riot:zamieszki:5
+teacher:nauczyciel:5
+engi-nerd:nerd z polibudy:5
+insulting:obrazliwy:5
+covering letter:list motywacyjny:5
+dictionary:slownik:5
+citizen:obywatel:5
+efficient:wygodny:5
+sophisticated:wyrafinowany:5
+dubious:watpiacy:5
+headline:naglowek:5
+nevertheless:niemniej:5
+folk:ludzie:5
+herd:stado:5
+former:pierwszy z wymienionych:5
+stiffly:twardo:5
+reluctant:niechetny:5
+untold:odslonic:5
+encore:bis:5
+flattery:pochlebstwo:5
+manner:maniera:5
+careened:przewrocony:5
+solely:jedynie:5
+measures:srodki:5
+unified:zjednoczony, polaczony:5
+slightly:nieznacznie, troche, nieco:5
+alteration:zmiana:5
+expectation:oczekiwania:5
+proficiency:efektywnosc, wydajnosc:5
+emphasize:podkreslac,akcentowac:5
+harsh:ostry, szorstki:5
+fierce:agresywny,zaciety,zapalony:5
+rubble:gruz,rumowisko:5
+attribute:przypisywac:5
+threshold:próg:5
+rubish:nieczystosci:5
+striking:uderzajacy, zdumiewajacy, zastanawiajacy:5
+delve:ryc, zaglebiac sie:5
+slant:punkt widzenia, point of view:5
+literate:oczytany, pismienny:5
+elaborate:wypracowany:5
+tailored:okrojony, dostosowany do czegos:5
+justify:uzasadniac, usprawiedliwiac:5
+eminent:eminencja, dostojnosc:5
+several:kilka, kilkanascie:5
+inset:wklejka, wstawka:5
+efficacy:skutecznosc:5
+pernicious:zlosliwy, szkodliwy:5
+wail:zawodzenie,placz,lament:5
+tweak:szczypac, wykrecac, rasowac:5
+leap:wskakiwac:5
+couple:para:5
+contribution:zaangazowanie, wklad:5
+outback:odludzie w Australii (no kurwa!):5
+politely:grzecznie:5
+afford:pozwalac sobie pozwolic dac nasunac smiec:4
+comprise:obejmowac:5
+excessively:zbytnio:5
+ascribe:przypisywac:5
+distorted: skoslawiony, wykrecony, przenicowany, zmieniony:5
+contiously:ostroznie:5
+mould:formowac:5
+acerbic:cierpki, zgryzliwy:5
+astounding:zdumiewajacy:5
+simultaneously:jednoczesnie:5
+entrust:powierzyc:5
+nebulous:mglisty, zamglony:5
+although:aczkolwiek:5
+hut:chatka:5
+fairy-tale:bajka akcji (LOL):5
+stood:forma dokonana od stand:5
+hollow:dziura, dziupla, wglebienie:5
+anguish:udreka, katusze:5
+barely:ledwie, zaledwie, skapo:5
+concern:firma,udzial,obawa,zmartwienie,zaangazowanie:5
+minor:mniejszy, mniejsza czesc:5
+entice:przekonywac, necic, zachecac:5
+well-thumbed:zniszczony przez uzywanie, zuzyty:5
+draft:szkic:5
+simultaneous:jednoczesny:5
+slaughter:masakra, rzeznia, uboj, morderstwo:5
+candid:szczery, otwarty:5
+woodcutter:drwal:5
+innermost:najbardziej zagniezdzony, najglebszy:5
+nested:zagniezdzony:5
+likewise:ponadto, podobnie:5
+reveal:wyjawiac, odkrywac, wyjasniac:5
+shift:przesuniecie, zmiana:5
+syne:as opposed to soon, since,ago:5
+nerd:kujon,pojeb,glupek,oferma:5
+reservation:zastrzezenie:5
+seemingly:pozornie:5
+intemperately: indulging excessively, przesadnie tolerowac:5
+dent:wgniecenie:5
+indulge:poblazac, cierpliwie znosic:5
+commitment:zobowiazanie:5
+traverse:przecinac:5
+drone:truten, zdalnie sterowany:5
+invoice:faktura:5
+to influence:wplyw, wplywac:5
+queer:pedal, gej, ekscentrycznie, dziwnie (to feel queer):5
+cheerful:radosny, pogodny:5
+sharp:krzyzyk, ostry:5
+intimately:szeroko,gruntownie,blisko,intymnie:5
+incentive:podnieta, bodziec, zacheta:5
+timid:niesmialy, bojazliwy:5
+mutilation:okaleczenie:5
+confide:powierzyc:5
+annual:roczny, coroczny:5
+menslaughter:nieumyslne spowodowanie smierci:5
+deliberately:rozwaznie, z premedytacja, wyrachowaniem:5
+contigous:sasiedni, pobliski:5
+narrow:ciasno, ledwie:5
+crumble:kruszyc sie:5
+singularity:osobliwosc, niezwyklosc:5
+bother:przeszkadzac, niepokoic:5
+heat:goraco:5
+bitterness:gorycz:5
+coincidental:przypadkowy:5
+ambiguity:dwuznacznosc, wieloznacznosc:5
+premises:siedziba, teren, posesja:5
+siege:oblezenie:5
+effort:starania, wysilek:5
+shrewd:przenikliwy:5
+endorse:indosowac,podpisywac lub popierac lub zatwierdzac:5
+ancestor:antenat, przodek:5
+contingency:ewentualnosc, nieprzewidziany wypadek:5
+neglect:pominiecie, zaniedbanie:5
+intentionally:swiadomie:5
+restraint:powsciagliwosc, pohamowanie:5
+conciousness:swiadomosc:5
+creed:kredo:5
+stockholder:udzialowiec, posiadacz:5
+tremendous:straszliwy, straszny, olbrzymi, ogromny:5
+embody:ucielesniac, zawierac:5
+inflection:odmiana, zalamanie:5
+admit:przyznawac, wpuszczac, przyjmowac:5
+precede:poprzedzac:5
+noble:szlachetny, wielkoduszny, pan wielkiego rodu:5
+prospect:badac, prowadzic poszukiwania:5
+rendition:wykonanie, odtworzenie:5
+sincere:szczere:5
+exploit:uzywac ekonomicznie, wykorzystywac, wyzyskiwac:5
+skimp:zalowac, skapic:5
+moreover:ponadto, co wiecej:5
+lawn:prawnik:5
+attorney:prawnik, adwokat:5
+discount:znizka:5
+pending:trwajacy, w toku, nierozstrzygniety:5
+facilities:infrastruktura:5
+council:rada:5
+remuneration:placa, remuneracja:5
+MD:Managing Director:5
+piled:zmiekczony:5
+shareholder: akcjonariusz:5
+leisure:wolny czas, chwila:5
+feasible:wykonalny:5
+impairment:oslabienie, uszkodzenie, nadwyrezenie:5
+collusion:zmowa, spisek, podstep:5
+withheld:refuse to give, odmowic:5
+lozenges:romby:5
+sulfur:siarka:5
+steam:para wodna:5
+ammonia:amoniak:5
+carbon:wegiel:5
+breach:pogwalcenie, naruszenie:5
+nitrogen:azot:5
+nitric:azotowy:5
+dioxide:dwutlenek:5
+inroad:najazd, wtargniecie, inwazja:5
+monoxide:tlenek:5
+raw material:surowiec:5
+wealth:bogactwo, obfitosc:5
+latter:drugi:5
+rumble:grzmot, huk, dudnienie:5
+chalk:kreda:5
+gym:sala gimnastyczna:5
+staff room:pokoj nauczycielski:5
+blackboard:tablica:5
+graduate:absolwent:5
+play truant:wagarowac:5
+fertilizer:nawoz sztuczny:5
+coal:wegiel opalowy:5
+school leaver:absolwent:5
+skip classess:opuszczac lekcje, wagarowac:5
+strive:starac sie, usilowac, strove, striven:5
+merit:zasluga, wyroznienie:5
+malpractice:wykroczenie:5
+favourably:pozytywnie, korzystnie, przychylnie:5
+civil servant:urzednik panstwowy:5
+furnace:piec:5
+ethylene:etylen:5
+glance:rzut oka:5
+graduate from a university:skonczyc uczelnie:5
+learn by heart:uczyc sie na pamiec:5
+drop out from a course:odleciec, odpasc z kursu, szkolenia:5
+locker:szafka:5
+headmester's office:gabinet dyrektora:5
+orphan:sierota:5
+foster children:przybrane dzieci:5
+nephew:bratanek, siostrzeniec:5
+triplets:trojaczki:5
+get a report:otrzymac raport:5
+forerunner:prekursor, poprzednik:5
+eldery person:osoba starsza:5
+aunt, aunty:ciotka:5
+mother in law:tesciowa:5
+adolescent:mlodzieniec:5
+middle age:wiek sredni:5
+occupation:praca, zawod, zajecie:5
+profession:zawod:5
+skilled work:praca wymagajaca specjalnych kwalifikacji:5
+blue collar worker:pracownik fizyczny:5
+be on call:byc pod telefonem:5
+fill in for sb:zastepowac kogos:5
+income:dochod:5
+get prompted:otrzymac awans:5
+overwork:przepracowywac sie:5
+relevant:zwiazany z omawiana sprawa, istotny, odpowiednie, poszczegolne:5
+syntactically:skladniowo:5
+denote:oznaczac:5
+compensation:placa, kompensata, rekompensata:5
+spouse:malzonek:5
+kiln:piec ceramiczny, kaflowy:5
+hitherto:dotychczas, dotad:5
+interlocutor:rozmowca:5
+in-laws:tesciowie:5
+adulthood:doroslosc:5
+advent:nadejscie, przybycie, pojawienie sie, nastanie:5
+earn one's living as:zarabiac na zycie jako:5
+pose:stanowic, pozowac, przybierac pozy:5
+merely:po prostu, jedynie:5
+coincidence:zbieznosc, zbieg okolicznosci:5
+sharply:przenikliwie:5
+notion:idea, wyobrazenie, pojecie:5
+resemble:przypominac z wygladu:5
+acquisition:przejecie, nabywanie, acquisition of foreign language, nabywanie nowego jezyka:5
+sulphur:siarka:5
+white collar worker:pracownik umyslowy:5
+cardinality:licznosc, moc zbioru:5
+extent:rozmiar, zasieg:5
+strain:obciazenie, napiecie:5
+clarification:wyjasnienie, wyklarowanie:5
+facilitator:someone that makes progress easier:5
+appreciable:wyrazny:5
+though:chociaz, pomimo, badz co badz:5
+distracting:pozwalajacy zapomniec, odciagajacy uwage:5
+careen:przewracac, przechylac:5
+extorsion:wymuszenie:5
+extensional:used of class of entities to which a given word correctly applies:5
+admissible:dopuszczalny:5
+reprove:karcic, ganic:5
+intermediate:posredni, przejsciowy:5
+nearby:sasiedni,bliski:5
+fulfil:spelniac:5
+augment:powiekszac, zwiekszac:5
+attendance:obecnosc:5
+wages:tygodniowka:5
+undertake:podjac, przedsiewziasc:5
+cope with:miec do czynienia, stawiac czola, dawac sobie rade:5
+be made reduntant:zostac zwolnionym:5
+pay rise:podwyzka:5
+assemble:zbierac, montowac, skladac:5
+falter:zajaknac sie, wahac sie:4
+barrel:beczka, cylinder, rura:4
+recoil:odrzut:4
+tissue:tkanka:4
+pulse:short burst of power, krotki wyrzut energii:4
+cone:stozek:4
+conical:stozkowy:4
+cone-shaped:stozkowy:4
+diameter:srednica:4
+roughly:podobny, porownywalny, zblizony:4
+application:cel, przeznaczenie, funkcja:4
+engine exhaust:spaliny:4
+nozzle:dysza:4
+solid fuel:paliwo stale:4
+safe altitude:bezpieczna pozycja nad poziomem morza:4
+jet:odrzutowy:4
+nose, tip:wierzcholek, czubek, gora:4
+bolt:srubka, sruba:4
+apprenticeship:praktyka:4
+contend:walczyc:4
+burdensome:uciazliwy:4
+detrimental:szkodliwy, ujemny:4
+coddle:rozpieszczac:4
+indent:wciecie:4
+saturation:nasycenie:4
+foreseen:przewidywany:4
+cantankerous:klotliwy:4
+impose:nakladac:4
+allowance:tygodniowka, kieszonkowe, dodatek:4
+clearance:luz, przeswit, oblozyc, podyktowac, nalozyc:4
+intimidate:zastraszac:4
+indefinitely:nieokreslony:4
+float:opadac, szybowac:4
+thrust:nacisk, napor, parcie, pchniecie, ciagniecie:4
+hasty:pochopny, porywczy, pospieszny, lekkomyslny, dorazny, niezwloczny:4
+fuselage:kadlub samolotu:4
+torque:sila ciagu:4
+slippery:poslizg:4
+car's lane:pas ruchu:4
+indicator:sygnalizator, kierunkowskaz:4
+regain:odzyskac:4
+audible:slyszalny, dzwiekowy:4
+bearing:nosic, przechowywac:4
+oil rig:platforma wiertnicza:4
+hassle:klopot, meczarnia:4
+owing:dzieki:4
+rein:wodza, cugle:4
+screw:sruba, pila, wkret, rznac, zwijac, wkrecac, srubowac:4
+tick:zaznaczyc, odfajkowac:4
+mould:plesn, forma, odlew, czarnoziem:4
+fasten:przymocowac, przywiazac:4
+delineate:nakreslic:4
+canopy:sklepienie, baldachim:4
+pellet:srut, kulka, srucina, pigulka:4
+obstruction:przeszkoda, tamowanie, zatykanie:4
+memberane:blona, przepona, oblonienie, membrana:4
+brass:mosiadz:4
+hesitate:wahac sie, zastanawiac, nie moc sie zdecydowac:4
+confounding:konfudujacy, konfudowanie:5
+asides:na boku, na stronie:5
+pitfall:pulapka:5
+be on duty:byc na duzurze, zmianie:5
+subconcious:podswiadomy:5
+enlarging:zwiekszac:4
+extrusion:wytlaczanie:4
+deflate:siadac, spuszczac powietrze, przeprowadzac deflacje:4
+drill:wiertlo, wiercic, musztra:4
+minutes:protokol, sprawozdanie z posiedzenia:5
+detract:umniejszac, uszczuplac:5
+aptitude:umiejetnosc szybkiego uczenia sie, naturalna zdolnosc:5
+intended:zamierzony:5
+devoted:przeznaczony do:5
+stepson:pasierb:5
+remedial:zaradczo:4
+niece:siostrzenica, bratanica:5
+extinguish:gasic:4
+calliper:zacisk:4
+piston:tlok, wentyl, klapa:4
+master cylinder:hamulcowy:4
+spongy:gabczasty, wiotki, bibulkowaty:4
+mend:naprawiac, reperowac:4
+stopgap:namiastka:4
+novel:nowatorski:5
+hard hat:kask, helm:4
+brake pad:klocek hamulcowy:4
+brak lines:przewody hamulcowe]:4
+break line:podzial wiersza:4
+lime:wapno:4
+fissure:szczelina:4
+extraction wells:studzienki ekstrakcyjne:4
+pressurise:utrzymywac zwiekszone cisnienie:4
+sailboat:zaglowka:4
+WTMD:walk through metal detector:4
+electric current:prad elektryczny:4
+slid:zsuniete, zsuniety, zsunieta, zsunal:3
+seabed:dno morskie:4
+carbon fibre:wlokno weglowe:4
+lightness:lekkosc:4
+aramid fibre:wlokno aramidowe:4
+ridge:grzbiet:4
+rigidity:sztywnosc, niewzruszonosc:4
+bend:zginac:4
+impact resistance:odpornosc na uderzenia:4
+reinforced concrete:zelbeton:4
+ductile:ciagliwy, plastyczny:4
+malleability:ciagliwosc:4
+ductility:ciagliwosc:4
+amidst:wsrod:4
+verge:skraj, kres, chylic sie, brzeg, wpadac:4
+rally:rajd:4
+mortgage:hipoteka:4
+pundits:eksperci:4
+wan:nikly, mizerny, blady:4
+straw:sloma:4
+boggle:sleczec, grzebac, wzdrygac sie:4
+atrocities:okrucienstwa:4
+ovenproof:zaroodporny:4
+impoverished:zubozaly:4
+loaf:bochenek:4
+capacitive:pojemnosciowy:4
+detention:aresztowanie, areszt, przetrzymanie, karcer:4
+stretch:rozciagac:4
+vehemently:gwaltownie:4
+aftermath:nastepstwo:4
+immemorial:odwieczny:4
+opaque:nieprzezroczysty, nieprzejrzysty, ciemny:4
+mercantile:handlowy, merkantylny:4
+bon:wiez, zobowiazanie, bon:4
+normalcy:normalnosc:4
+endanger:zagrozic:4
+curb:kraweznik, hamulec, okielznac:4
+consumption-led:zorientowane na produkcje:4
+reckoning:rachuba, rachunek, rozliczenie:4
+adamantly:stanowczo:4
+chiropractor:kregarz:4
+insurmountable:niepokonany, nie do pokonania:4
+heritage:spuscizna, spadek, ojcowizna:4
+seize:zajecie, konfiskata, przejecie:4
+reigned:panowal:4
+fathom:pojac, zdac sobie sprawe:4
+foodstamp:kartka zywnosciowa:4
+topped up:uzupelniany:4
+brunt:impet, sila:4
+worrisome:niepokojacy:4
+magnitude:wielkosc, znaczenie:4
+mild:lagodny, nieostry:4
+portfolio:teczka, aktowka, portfel wekslowy:4
+fate:los, fatalizm, przeznaczenie, zguba:4
+decimated:zdziesiatkowany:4
+grocery:sklep spozywczy:4
+unravel:rozwiklac:4
+vested:nabyty, usankcjonowany:4
+burglar:wlamywacz:4
+vaccine:szczepionka:4
+heist:skok:4
+derail:wykoleic:4
+fickle:zmienny, niestaly, plochy, lekkomyslny:4
+fluid:plyn, ciecz:4
+HHMD:hand held metal detector:4
+gantry:zuraw, suwnica, pomost na slupach:4
+molten:stopiony, roztopiony, od melt, tumanie:4
+low-lying:nizinny:4
+delusion:urojenie:4
+endeavor:dazenie, staranie, zachod:4
+coil:przegub zwitek zwoj wezownica tumult spirala zwojnica:4
+torsional:skretny:4
+inestimable:nieoceniony, nieoszacowany, bezcenny:4
+looming:zblizajacy sie:4
+pothole:kociol erozyjny:4
+reared:wyhodowany:4
+tentacle:macka:4
+sluggishly:flegmatycznie:4
+mortgage:kredyt hipoteczny:4
+adage:przyslowie:4
+usher:wprowadzac:4
+wheat:pszenica:4
+weather:pogoda:4
+intricacies:zawilosci:4
+hovercraft:poduszkowiec:4
+add landscaping:krajobraz:4
+chilling:chlodzacy:4
+fissile:rozszczepialny:4
+abreast:na biezaco, nie pozostawac w tyle:4
+uncharted:niezbadany:4
+sneaky:podstepny:4
+verge:skraj:4
+pace:tempo:4
+inextricably:nierozerwalnie:4
+looting:grabiez, pladrowanie:4
+evasive:wymijajacy, balamutny, wykretny, wymijajacy:4
+unprecedented:bez precedensu:4
+hedge:zywoplot, ogrodzenie, kruszyc:4
+rough:szorstki, twardy:4
+tube:rura, przewod, waz, detka, cewka, kineskop, kanal, szwach:4
+spar:pal, reja, slup, opalowac teren:4
+tow:holowac:4
+frail:watly, lamliwy, mizerny:4
+bump:guzek, wstrzasniecie, guz, zgrubienie:4
+concourse:zbiegowisko, zbieranina, zgromadzenie:4
+rub:pocierac, czochrac, trzec, ucierac:4
+kettle:czajnik, sagan, kociol:4
+rod:pret, wtyczka, laska, ruzga:4
+soles:podeszwy:4
+grider:dzwigar, wzdluznik, stropnica, gantry:4
+ladder:drabina:4
+gloves:rekawiczki:4
+fatigue:zmeczenie, omdlalosc:4
+mooring:cumowanie, kotwicowisko:4
+hiking:turystyka:4
+shaft:wal, dyszel, ostrze:4
+lubricant:smar, maz:4
+piers:mola:4
+adjacent:next to:4
+appease:zaspokoic, udobruchac, zadowolic:4
+wary:ostrozny, przezorny:4
+glimpse:rzut oka, przelotne spojrzenie:5
+discourse:rozmowa, rozprawa, dyskurs:5
+drain:drenaz, odsaczac, odparowac, wysuszyc:3
+pour:wlewac:3
+preposition:przyimek, pozor:3
+decease:zgon:3
+complement:uzupelnienie, dopelnienie:3
+stretchers:nosze:3
+tapered:stozkowe:3
+consonant:spolgloska:3
+vowel:samogloska:3
+understimate:bagatelizowac, nie doceniac, lekcewazyc:4
+unfold:rozwijac:4
+lashed:przymocowane:3
+chiefly:glownie, przewaznie, zwlaszcza:3
+tactile:taktylne, na dotyk, dotykowe, kinestetyczne:4
+pegged:powiazany:4
+complacency:samozadowolenie:4
+repel:odpychac, odtracac:4
+sly:chytry, figlarny, filuterny, szelmowski, szczwany, cwany:4
+rim:obrecz, cyrkiel, kolo:4
+eerily:niesamowicie:4
+tyre:opona, obrecz, stroj, nudzic, nuzyc, meczyc:4
+tidal:plywowy, oddychowy:4
+complacent:beztroski, blogi, zadowolony:4
+expedient:wskazany:3
+towel:recznik:3
+conduit:przewod, rura, przejscie:3
+flop:klapa, chlupotac, fiasko, plajta, niedolega, pacniecie:3
+grievances:zale:3
+shamble:powloczyc nogami, lazic:3
+assuage:zalagodzic:3
+tampering:zawezac:3
+judiciously:rozwaznie:3
+oversee:nadzorowac:3
+susecptibility:podatnosc:3
+hemorrhaging:krwotok:3
+unintelligible:niezrozumialy, nieprzejrzysty:3
+sheath:pochwa:3
+entrepreneur:przedsiebiorca:3
+overcome:obchodzic:3
+obstruct:blokowac:3
+attenuation:oslabienie, rozcienczenie:3
+influx:naplyw:3
+hereunder:w ramach niniejszej umowy:3
+festering:ropiejace:3
+tossed:rzucone:3
+aggravate:jatrzyc, irytowac, pogarszac:3
+incarcenation:uwiezienie:3
+allegedly:rzekomo:3
+seizure:konfiskata:3
+abducted:uprowadzony:3
+screwdriver:srubokret, wkretarka:3
+shackle:jarzmo, okowy, klamra, szakla:3
+scant:skapy, ograniczony:3
+litter:smieci, nieczystosci, gnoj, lektyka:3
+allegations:zarzuty:3
+superfluous:zbedny, nieuzyteczny, niecelowy, zbywajacy:3
+sterling:niezawodny, rzetelny, solidny:3
+propensity:sklonnosc:3
+amenity:uprzejmosc, laskawosc, zaleta:3
+plunger:nurek, spekulant, hazardzista:3
+attain:osiagac, dosiegac, wskorac, uzyskac, dotrzec do:3
+supper:kolacja:3
+porch:weranda, kruchta, ganek, przedsionek, podjazd, podsienie:3
+laxatory:przeczyszczajay, przeczyszczajace:3
+tribal:plemienny:3
+terse:lakoniczny, zwiezly, dosadny:3
+envy:zazdroscic, pozazadroszczenie:3
+courteous:urzejmy, grzeczny, kurtuazyjny:3
+courteous:uprzejmy, grzeczny:3
+hyphenated:pisany-z-lacznikiem-lol:4
+puncture:przebicie:4
+submerge:zanurzac:4
+heightening:podniesienie:4
+club:klub, stowarzyszenie, maczuga, kij:4
+hourglass:klepsydra:4
+grain:ziarno, granulowac:4
+allotted:przydzielone, asygnowane:3
+levee:bariera, grobla:4
+startling:zaskakujacy, wstrzasajacy:4
+systemic:systemowe:4
+ream:ryza, poszerzac:4
+abrasion:scieranie:4
+hose:waz, kiszka, szlauch:4
+gusset:klin, wstawka:4
+accession:przystapienie, przybycie, akces, przyrost, dostep:4
+repeal:uchylenie, odwolanie, zniesc, anulowac:4
+concealing:ukrywanie:4
+riser:dowierzchnia, podstopien, przednozek, ranny ptaszek:4
+rucksack:plecak:4
+palm:dlon, palma:4
+knot:wezel, petla, bula:4
+rap:stukniecie, uderzenie, pukniecie:4
+tensile:rozciaganie:4
+enact:uchwalac:4
+alongside:przy, wzdluz, rownolegle z:4
+cruising:przelotowa:4
+interrogative:badawczy:4
+notably:szczegolnie, w szczegolnosci, wybitnie, znakomicie, w znacznej mierze:4
+buckling:wypaczenia:4
+drogue:dryfujace:4
+hasten:przyspieszyc:4
+depleted:wyczerpane:4
+contention:twierdzenie:4
+cling:przylgnac:0
+propel:napedzac, pchac:0
+chagrin:zmartwienie:0
+chatter:paplanina, szczebiotanie:0
+maze:labirynt:0
+scoop:lyzka, lyzeczka:0
+vexing:dokuczliwy, nieznosny:0
+juxtaposition:zestawienie:1
+rekrut:rookie:1
+corollary:nastepstwo:0
+churn:maselnica, kipiec:0
+inadvertently:przypadkowo:0
+transient:chwilowy, przejsciowy, przemijajacy, tymczasowy, nietrwaly, przelotny:0
+debilitating:uposledzajacy:0
+profound:gleboki, calkowity, intensywny, wyczerpujacy:0
+prodigy:cud, osoba niezwykle uzdolniona, cudownosc:0
+incessantly:nieustannie, wiecznie, nieprzerwanie:0
+doodle:gryzmolic:0
+foster:sprzyjac, wynianczyc, wychowac, zywic, popierac:0
+gleam:lsnic, blyskac, jasniec, iskra, lsnienie, plomyk, refleks:0
+lustre:polysk, zyrandol, blask, wisior, wisiorek, swietnosc:0
+peculiar:osobliwy, specyficzny, dziwny:0
+pondering:rozwazac:0
+oftentimes:czesto:0
+trite:oklepany, bezplciowy:0
+cavort:wydziwiac, brykac:0
+impede:utrudniac, zatrzymywac, blokowac:0
+scathing:zjadliwy:1
+overreliance:zbyt glebokie zaufanie:1
+overtones:podteksty:1
+preconscious:przedswiadomy:1
+proponent:zwolennik:1
+trumpet:trabka:1
+idiosyncratic:przewrotny, przewrotnie:1
+gear:bieg, przekladnia, mechanizm:1
+behalf:w umieniu:1
+tacit:milczacy:1
+embark:rozpoczac, zaokretowac:1
+harness:okielznac:1
+pecularities:osobliwosci:1
+pitcher:dzban, zawodnik rzucajacy pilka:1
+lump:guzek, brylka, kupa:1
+estate:nieruchomosc, majetnosc:1
+headlong:karkolomnie:0
+cramped:ciasny, zbity, zlozony, niezrozumialy:0
+undermine:oslabiac, podkopywac, podminowac, pederwac, podmyc, rujnowac, podgryzc:0
+espouse:ozenic sie, poslubic, zostac zwolennikiem, udzielic poparcia, laczyc:0
+espoused:forsowane:0
+every so often:tak czesto:0
+back and forth:tam i z powrotem:0
+rodent:gryzon:0
+flotsam:szczatki statku unoszace sie na morzu:0
+differential:zroznicowany:0
+shell out:bulic:0
+imprint:wpisac sie, odcisk, pietno, znamie, wyryc:0
+astray:zablakany, zaginiony:0
+converse:rozmowa, rozmawiac, odwrotny:0
+murky:mroczny, ciemny:0
+sloppy:niechlujny, blonisty, pochlapany, ckliwy, sfuszerowany, rzewny, sentymentalny, zaniedbany, rozlazly, niestaranny:0
+latch:zatrzask, zawora, zasuwa, zatrzasnac, zamknac:0
+generative:generatywny, rodzacy, rozdrodczy, produktywny:0
+funnily:zabawnie, komicznie, smiesznie, pociesznie, humorystycznie:0
+skewed:wypaczone:0
+plaintive:zalosny, rozpaczliwy, placzliwy, zalobny, melancholijny:0
+honing:gladzenie:0
+far-flung:odlegly, daleki:0
+toil:trud, znow, orka, harowka, mozol:0
+morass:bajoro, mokradlo, moczar, grzezawisko, oparzelisko:0
+coax:naklaniac, odbobruchac, czulic sie, glaskac, balamucic, wyludzac, wydebiac:0
+fiddle:skrzypce, nieuczciwosc, bzdury, bawic sie czyms bezmyslnie:0
+fermentowac:wrzenie, ferment, bladzic, zakwasic, burzyc:0
+jiggle:skakac, wstrzasac:0
+die-hard:zagorzaly, zagorzalec:0
+divulge:rozglaszac:0
+projectile:pocisk, balistyczny:0
+stew:gulasz:0
+spear:wlocznia, skrobac, kluc, lowic harpunem, wlocznie, oszczepy:0
+outlandish:obcy, dziwaczny, obcokrajowy:0
+eradicating:likwidowac:0
+obliterating:zacieranie:0
+coalesce:laczyc:0
+missive:pismo, oredzie:0
+niggling:malostkowy, drobiazgowy, wymuskany:0
